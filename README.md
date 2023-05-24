@@ -35,5 +35,7 @@ You can click the Preview link to take a look at your changes.
 - Email: meor.syamil@hotmail.com
 
 ## Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=w30r&show_icons=true&theme=radical)
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=w30r&show_icons=true&theme=radical" alt="Jas-Script" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=w30r&count_private=true&theme=radical" alt="Jas-Script" />
+<img align="center" width=500 src="https://github-readme-stats.vercel.app/api/top-langs/?username=w30r&count_private=true&theme=radical" alt="Jas-Script" />
 
