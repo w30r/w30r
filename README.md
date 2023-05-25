@@ -10,9 +10,9 @@ You can click the Preview link to take a look at your changes.
   <img src="https://media.giphy.com/media/9zExs2Q2h1EHfE4P6G/giphy.gif" width="400"/>
 </div>
 
-<div id="badges" align="center">
+<!-- <div id="badges" align="center">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" href="google.com"/>
-</div>
+</div> -->
 
 # 👋 Hiiiiiiiiiii, I’m @w30r 👋
 
