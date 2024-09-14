@@ -17,7 +17,7 @@ You can click the Preview link to take a look at your changes.
 # 👋 Hiiiiiiiiiii, I’m @w30r 👋
 
 ## About Me!
-- 👨🏼 I'm a Full-Stack Developer. I love CS:GO and making House music. Currently, I'm unemployed, hire me please.
+- 👨🏼 I'm a Full-Stack Developer. I like trains.
 - 🌱 Love solving problems with software.
 - 💬 Learning a lot of latest tech!
 
