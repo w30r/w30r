@@ -1,41 +1,39 @@
-
-
 <!---
 w30r/w30r is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
 --->
 
+<div align="center">
 
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/9zExs2Q2h1EHfE4P6G/giphy.gif" width="400"/>
+  <!-- Header Image -->
+  <img src="https://media.giphy.com/media/9zExs2Q2h1EHfE4P6G/giphy.gif" width="400" alt="Coding GIF"/>
+
+  # 👋 Hiiiiiiiiiii, I’m @w30r
+
+  ## 📖 About Me
+  - 👨🏼 I'm a **Full-Stack Developer**. I like trains. 🚂
+  - 🌱 Love solving problems with software.
+  - 💬 Learning a lot of latest tech!
+
+  ---
+
+  ### 🛠️ Technologies
+  [![My Skills](https://skillicons.dev/icons?i=js,react,nodejs,py,nextjs,vercel,git,tailwind)](https://skillicons.dev)
+
+  ---
+
+  ### 🏆 Achievements
+  <img src="https://github-profile-trophy.vercel.app/?username=w30r&theme=radical&no-bg=true&margin-w=4" alt="w30r Trophies" />
+
+  ---
+
+  ### 📊 GitHub Stats
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=w30r&count_private=true&theme=radical" alt="GitHub Streak" />
+  
+  <br/>
+  
+  ---
+
+  ### 📬 Find Me
+  [Portfolio](https://developedbymeor.vercel.app/) • [LinkedIn](https://www.linkedin.com/in/meor-syamil-59935a153/) • [Email](mailto:meor.syamil@hotmail.com)
+
 </div>
-
-<!-- <div id="badges" align="center">
-  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" href="google.com"/>
-</div> -->
-
-# 👋 Hiiiiiiiiiii, I’m @w30r 👋
-
-## About Me!
-- 👨🏼 I'm a Full-Stack Developer. I like trains.
-- 🌱 Love solving problems with software.
-- 💬 Learning a lot of latest tech!
-
-## Technologies
-[![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
-[![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)](https://reactjs.org/)
-[![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)](https://nodejs.org/)
-[![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/)
-
-
-## Find Me
-- [Portfolio](https://developedbymeor.vercel.app/)
-- [LinkedIn](https://www.linkedin.com/in/meor-syamil-59935a153/)
-- Email: meor.syamil@hotmail.com
-
-## Stats
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=w30r&show_icons=true&theme=radical" alt="Jas-Script" />
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=w30r&count_private=true&theme=radical" alt="Jas-Script" />
-<img align="center" width=500 src="https://github-readme-stats.vercel.app/api/top-langs/?username=w30r&count_private=true&theme=radical" alt="Jas-Script" />
-
