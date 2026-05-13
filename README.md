@@ -9,7 +9,7 @@ w30r/w30r is a ✨ special ✨ repository because its `README.md` (this file) ap
 
   # 👋 Hiiiiiiiiiii, I’m @w30r
 
-  ## 📖 About Me
+  ## 📖 About Mee
   - 👨🏼 I'm a **Full-Stack Developer**. I like trains. 🚂
   - 🌱 Love solving problems with software.
   - 💬 Learning a lot of latest tech!
